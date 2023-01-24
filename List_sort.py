@@ -30,11 +30,4 @@ def insert_sort(array):
     return array
 
 
-list = [7,5,4,6,1,9,8,3,0,2]
 
-
-print(bubble_sort(list))
-print("\n")
-print(select_sort(list))
-print("\n")
-print(insert_sort(list))
